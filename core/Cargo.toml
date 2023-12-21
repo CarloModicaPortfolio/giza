@@ -10,4 +10,3 @@ math = { version = "0.7.0", package = "winter-math", default-features = false }
 winter-utils = "0.7.0"
 ff = { version = "0.12", features = ["derive"] }
 hex = "0.4"
-
